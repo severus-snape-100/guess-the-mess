@@ -26,6 +26,10 @@ body{
     list-style-type: none;
 }
 
+.text-hover:hover{
+    font-size: 22px;
+}
+
 #number-div{
     visibility: visible;
 }
