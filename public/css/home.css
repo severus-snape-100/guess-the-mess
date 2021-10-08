@@ -15,6 +15,10 @@ body {
   letter-spacing: 1px;
 }
 
+.text-hover:hover{
+    font-size: 22px;
+}
+
 h1 {
   background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
   background-size: cover;
